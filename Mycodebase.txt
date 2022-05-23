@@ -16,3 +16,5 @@ public class AddTwoNumbers2 {
         System.out.println("Sum of these numbers: "+sum);
     }
 }
+
+# My new functionality is substraction.
